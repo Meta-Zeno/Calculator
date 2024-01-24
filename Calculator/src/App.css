@@ -1,0 +1,27 @@
+.buttonKeys {
+ display: grid;
+ place-items: center;
+ grid-template-columns: repeat(4, 1fr);
+ gap: 2px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.Screen {
+ height: 80px;
+  display: flex;
+  min-width: 350px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 10px;
+  font-size: 35px;
+}
