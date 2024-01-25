@@ -77,7 +77,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>React Calc</h1>
+      <h1>React Calculator</h1>
       <main>
         <div className="Container">
           {/* the plastic for a calulator ie outer-sehll */}
